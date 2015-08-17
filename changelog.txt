@@ -1,0 +1,3 @@
+version 1.4 --- changed opt_theta.m and theta_obj.m in step 2 to better handle the case
+where % normal is very close to 0 --- the calculation of remaining was
+unstable.
